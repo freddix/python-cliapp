@@ -1,11 +1,11 @@
 Summary:	Python framework for Unix-like command line programs
 Name:		python-cliapp
-Version:	1.20120929
+Version:	1.20130313
 Release:	1
 License:	GPL
 Group:		Applications
 Source0:	http://code.liw.fi/debian/pool/main/p/python-cliapp/%{name}_%{version}.orig.tar.gz
-# Source0-md5:	1185ff530ab686220f1301aa20da5df4
+# Source0-md5:	648b87724f501e4f1a4a7c5cb237e186
 URL:		http://liw.fi/cliapp/
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
